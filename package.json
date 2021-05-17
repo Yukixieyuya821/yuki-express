@@ -1,0 +1,12 @@
+{
+  "name": "yuki-express",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "yuki-express"
+  },
+  "dependencies": {
+    "express": "~4.16.4",
+    "yuki-express": "^2.3.6"
+  }
+}
