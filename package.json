@@ -3,10 +3,12 @@
   "version": "1.0.0",
   "private": true,
   "scripts": {
-    "start": "yuki-express"
+    "dev": "yuki-express dev",
+    "start": "yuki-express start",
+    "pm2": "yuki-express pm2"
   },
   "dependencies": {
     "express": "~4.16.4",
-    "yuki-express": "^2.3.6"
+    "yuki-express": "^2.4.6"
   }
 }
