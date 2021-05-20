@@ -1088,10 +1088,10 @@
   "resolved" "https://registry.npmjs.org/yallist/-/yallist-4.0.0.tgz"
   "version" "4.0.0"
 
-"yuki-express@^2.4.6":
-  "integrity" "sha512-WpzR/iWH7NeoleKRYwjE6L2NzSCOTpkWKbI1HrshgA92z+0c/dg7IUQaBdYMorwDWXs5mGk9lHJQpFB25IlqZw=="
-  "resolved" "https://registry.npmjs.org/yuki-express/-/yuki-express-2.4.6.tgz"
-  "version" "2.4.6"
+"yuki-express@^2.4.8":
+  "integrity" "sha512-l6jrsi2r6zeXW9VyfvkeQRCN4DCp8MmHlnISYrzIfF57F6Kb+MiKvri539UfKGj3ryoW549AYs8iG0Y+CRjs9A=="
+  "resolved" "https://registry.npmjs.org/yuki-express/-/yuki-express-2.4.8.tgz"
+  "version" "2.4.8"
   dependencies:
     "bcrypt" "^5.0.1"
     "cookie-parser" "~1.4.5"
