@@ -9,6 +9,6 @@
   },
   "dependencies": {
     "express": "~4.16.4",
-    "yuki-express": "^2.5.0"
+    "yuki-express": "^2.5.1"
   }
 }
